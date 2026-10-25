@@ -1,0 +1,1 @@
+SELECT Id_interno_Prov, tax_id, nombre_empresa FROM Proveedores WHERE tax_id = 'TAX-20287-X';
